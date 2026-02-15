@@ -32,28 +32,25 @@ Extract product information (name / price / rating if implemented)<br>
 Store data (optional: CSV or Excel)<br>
 Close browser<br>
 
-![Amazon Bot Workflow](Amazon_bot.png) <br>
-
 🚀 Skills Demonstrated<br>
 
 Web element identification<br>
 Browser automation<br>
-
 Data extraction<br>
-
 Loop implementation<br>
-
 Automation workflow design<br>
 
 📂 Files Included<br>
 
 amazon_bot.csv – Exported bot file<br>
-
 screenshot1.png – Workflow preview<br>
 
 💡 Learning Outcome<br>
 
 This project helped me understand real-world browser automation and how RPA tools interact with dynamic web applications.<br>
+
+![Amazon Bot Workflow](Amazon_bot.png) <br>
+
 
 
 
