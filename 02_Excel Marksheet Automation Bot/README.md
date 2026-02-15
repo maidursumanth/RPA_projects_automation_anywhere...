@@ -34,6 +34,27 @@ Save and close the file<br>
 If marks ≥ 50 → Pass<br>
 If marks < 50 → Fail<br>
 
+🚀 Skills Demonstrated <br>
+
+Excel data handling<br>
+Conditional logic implementation<br>
+Loop processing<br>
+Automation of repetitive tasks<br>
+Result validation<br>
+
+📂 Files Included : <br>
+
+excel_marksheet.csv – Exported bot file<br>
+sample_output.xlsx – Sample processed result file<br>
+
+💡 Learning Outcome:<br>
+
+This project improved my understanding of:<br>
+Data-driven automation<br>
+Working with structured Excel datasets<br>
+Applying business logic using RPA<br>
+Automating academic evaluation systems<br>
+
 📸 Screenshots : <br>
 
 ![Excel Marksheet Workflow](Excel_sheet_Bot.png)
