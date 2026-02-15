@@ -1,0 +1,4 @@
+Timestamp,Name,Email,Message,Reminder Status
+2026-01-20,Sai,sai1@example.com,"Hello, Please respond",Pending
+2026-01-30,Sai,sai2@example.com,"Hello, Please respond",PENDING
+2026-01-20,LOKESH,lokesh@example.com,"Hello, Please respond",Pending
